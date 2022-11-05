@@ -1,1 +1,1 @@
-# 공부한 내용을 저장하는 repository
+# 공부한 내용을 정리한 repository
